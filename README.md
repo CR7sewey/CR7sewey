@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Miguel, I'm a recent graduate in Biomedical Engineering, with no<br>professional experience yet. I want to enter the labour market now, wanting<br>to learn more and overcome challenges. I'm particularly interested in fields<br>associated with technology, science and programming, including data<br>science and software development, among others.
+My name is Miguel, just chilling out and coding!
 
 
 ## 🌐 Socials:
