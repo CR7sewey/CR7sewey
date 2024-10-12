@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Miguel!</h1>
 <h3 align="center">Someone who loves coding and overcoming challenges.</h3>
 
-- 🔭 I’m currently working on [NextJS-Store](https://github.com/CR7sewey/NextJS_Jobify)
+- 🔭 I’m currently working on [NextJS-Jobiby](https://github.com/CR7sewey/NextJS_Jobify)
 
 - 🌱 I’m currently learning **Next.js**
 
